@@ -24,6 +24,11 @@
 		38030DE11E58490200E707C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38030DE71E58498500E707C8 /* homework.item1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = homework.item1.playground; path = ../homework.item1.playground; sourceTree = "<group>"; };
 		38030DE81E584CAA00E707C8 /* homework.item2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = homework.item2.playground; path = ../homework.item2.playground; sourceTree = "<group>"; };
+		38030DE91E58516000E707C8 /* homework.item3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item3.playground; sourceTree = "<group>"; };
+		38030DEA1E58550600E707C8 /* homework.item4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item4.playground; sourceTree = "<group>"; };
+		38030DEB1E5858A500E707C8 /* homework.item5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item5.playground; sourceTree = "<group>"; };
+		38030DEC1E58598600E707C8 /* homework.item6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item6.playground; sourceTree = "<group>"; };
+		38030DED1E585ADE00E707C8 /* homework.item7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item7.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +69,11 @@
 				38030DE11E58490200E707C8 /* Info.plist */,
 				38030DE71E58498500E707C8 /* homework.item1.playground */,
 				38030DE81E584CAA00E707C8 /* homework.item2.playground */,
+				38030DE91E58516000E707C8 /* homework.item3.playground */,
+				38030DEA1E58550600E707C8 /* homework.item4.playground */,
+				38030DEB1E5858A500E707C8 /* homework.item5.playground */,
+				38030DEC1E58598600E707C8 /* homework.item6.playground */,
+				38030DED1E585ADE00E707C8 /* homework.item7.playground */,
 			);
 			path = proj5;
 			sourceTree = "<group>";
