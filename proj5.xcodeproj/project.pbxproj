@@ -29,6 +29,7 @@
 		38030DEB1E5858A500E707C8 /* homework.item5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item5.playground; sourceTree = "<group>"; };
 		38030DEC1E58598600E707C8 /* homework.item6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item6.playground; sourceTree = "<group>"; };
 		38030DED1E585ADE00E707C8 /* homework.item7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item7.playground; sourceTree = "<group>"; };
+		38030DEE1E594BDD00E707C8 /* homework.item8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework.item8.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 				38030DEB1E5858A500E707C8 /* homework.item5.playground */,
 				38030DEC1E58598600E707C8 /* homework.item6.playground */,
 				38030DED1E585ADE00E707C8 /* homework.item7.playground */,
+				38030DEE1E594BDD00E707C8 /* homework.item8.playground */,
 			);
 			path = proj5;
 			sourceTree = "<group>";
